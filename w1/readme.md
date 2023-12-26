@@ -9,7 +9,7 @@ https://github.com/sniffowomo/sn-cy1/assets/123172291/6b048e9e-bc87-4c56-8516-af
 
 1. [What ?](#what-)
 2. [Notes Setion](#notes-setion)
-   1. [Blockc](#blockc)
+   1. [Blockchain Basics](#blockchain-basics)
 
 ---
 
@@ -17,13 +17,20 @@ https://github.com/sniffowomo/sn-cy1/assets/123172291/6b048e9e-bc87-4c56-8516-af
 
 Make notes of [CFU](https://github.com/Cyfrin/foundry-full-course-f23)
 
-
-
 - dld [here](../cfug/)
   - Mostly a md , reading material all
 
----- 
+---
 
-# Notes Setion  
+# Notes Setion
 
-## Blockc
+## Blockchain Basics
+
+1. Orcale is bringing in external data into SC
+2. Hybrid Smart contracts - Onchain Contract + Off Chain Components
+3.Layer 2 Solutions - Doesnt scale everywhere 
+  - Optomisitc Rollups - Arbitrum, Optimism 
+  - ZK Rollups - ZKsum
+4. Arbitrum - Where challenge contracts are located
+5. Contract leads to Trust Minimized Agreements 
+   1. 
